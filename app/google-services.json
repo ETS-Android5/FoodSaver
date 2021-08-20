@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "772867278517",
+    "project_id": "foodsaver-d3733",
+    "storage_bucket": "foodsaver-d3733.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772867278517:android:223976b16a5ac5d54260fc",
+        "android_client_info": {
+          "package_name": "com.sp.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772867278517-aabc72ea0tdol3q6ql8br1adn29873ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Q4pTcwHmG-A5_PIGc6VoAIRGRR-Qh2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772867278517-aabc72ea0tdol3q6ql8br1adn29873ab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
